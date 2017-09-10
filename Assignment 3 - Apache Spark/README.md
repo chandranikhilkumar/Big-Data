@@ -1,0 +1,1 @@
+copy and paste the code in spark-shell
